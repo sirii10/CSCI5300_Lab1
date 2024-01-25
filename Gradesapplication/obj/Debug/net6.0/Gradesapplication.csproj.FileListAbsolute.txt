@@ -1,0 +1,14 @@
+C:\Users\SIRISHA\Downloads\Gradesapplication\bin\Debug\net6.0\Gradesapplication.exe
+C:\Users\SIRISHA\Downloads\Gradesapplication\bin\Debug\net6.0\Gradesapplication.deps.json
+C:\Users\SIRISHA\Downloads\Gradesapplication\bin\Debug\net6.0\Gradesapplication.runtimeconfig.json
+C:\Users\SIRISHA\Downloads\Gradesapplication\bin\Debug\net6.0\Gradesapplication.dll
+C:\Users\SIRISHA\Downloads\Gradesapplication\bin\Debug\net6.0\Gradesapplication.pdb
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.AssemblyInfoInputs.cache
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.AssemblyInfo.cs
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.csproj.CoreCompileInputs.cache
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.dll
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\refint\Gradesapplication.dll
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.pdb
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\Gradesapplication.genruntimeconfig.cache
+C:\Users\SIRISHA\Downloads\Gradesapplication\obj\Debug\net6.0\ref\Gradesapplication.dll

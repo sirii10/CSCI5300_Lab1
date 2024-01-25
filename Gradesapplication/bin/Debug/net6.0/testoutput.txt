@@ -1,0 +1,2 @@
+Yerr, Siri, 2, 3, 1, 1, 4, 1, 65, 12, 34, Average: 12.3, Grade: F
+Yerr, Siri, 60, 80, 67, 100, 100, 100, 99, 98, Average: 70.4, Grade: C
